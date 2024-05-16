@@ -1,0 +1,30 @@
+L1_Fondo
+L1_Santa Coloma
+Baró de Viver_L1
+Trinitat Vella_L1
+Torras i Bages_L1
+Sant Andreu_L1
+Fabra i Puig_L1
+La Segrera_L1
+Navas_L1
+Clot_L1
+Glòries_L1
+Marina_L1
+Arc de Trionf_L1
+Catalunya_L1
+Urquinaona_L1
+Universitat_L1
+Urgell_L1
+Rocafort_L1
+Espanya_L1
+Hostafrancs_L1
+Plaça de Sants_L1
+Mercat Nou_L1
+Santa Eulàlia_L1
+Torrassa_L1
+Florida_L1
+Can Serra_L1
+Rambla Just Oliveras_L1
+Avinguda Carrilet_L1
+Bellvitge_L1
+Hospital de Bellvitge_L1
